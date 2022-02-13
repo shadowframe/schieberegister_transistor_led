@@ -3,14 +3,26 @@
 
 ## Notes
 
-![alt](pn2222_hand.JPG)
+![alt](./readme/pn2222_hand.JPG)
 
-![alt](pn2222_74hc595_hand.JPG)
+![alt](./readme/pn2222_74hc595_hand.JPG)
 
-## Breadboard
+## Sketch
 
-![alt](breadboard_small.png)
+![alt](./readme/breadboard_small.png)
+
+### Transistor - LED Part:
+
+![alt](./readme/transistor_block.png)
 
 ## PCB
 
-![alt](pcb.png)
+![alt](./readme/pcb.png)
+
+## Breadboard
+
+![alt](./readme/proto_board.jpg)
+
+## Soldering
+
+![alt](./readme/solder_board.jpg)
