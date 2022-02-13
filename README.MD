@@ -26,3 +26,8 @@
 ## Soldering
 
 ![alt](./readme/solder_board.jpg)
+The pins on the circuit board serve as connectors for the LEDs
+
+![alt](./readme/solder_explain.png)
+
+The pins on the circuit board serve as connectors for the LEDs
